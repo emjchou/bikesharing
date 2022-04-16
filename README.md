@@ -24,7 +24,7 @@ The image above shows the trips by weekday for each hour. During the week, it se
 ![trips by weekday for each hour by gender](/images/trips_by_weekday_for_each_hour_by_gender.PNG)
 The image above shows the trips by weekday for each hour by gender. The graphs are similiar to the results described above, where male users had taken more trips. 
 
-![user trips by gender by weekday](/images/user_trips_by_gender_by_weekday)
+![user trips by gender by weekday](/images/user_trips_by_gender_by_weekday.PNG)
 The image above shows the user trips by gender by weekday, filtered by gender and user type. The image indicates that most of the trips were taken by male users who are subscribers.
 
 ## Summary
@@ -33,3 +33,6 @@ By the results above, a detailed analysis was done. This analysis can be used to
 2. The demographic to market to
 
 Additionally, the top starting locations and top ending locations visualizations may also be used to determine where bikes need to be picked up from and dropped off to. 
+
+## Tableau Public Link
+[link to dashboard](https://public.tableau.com/app/profile/emily3318/viz/Delieverable2and3/Story1)
