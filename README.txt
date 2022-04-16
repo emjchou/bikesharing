@@ -1,7 +1,0 @@
-! bikesharing
-
-!! Overview
-
-!! Results
-
-!! Summary
